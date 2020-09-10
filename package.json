@@ -1,0 +1,19 @@
+{
+  "name": "fuck-you-kai",
+  "version": "1.0.0",
+  "description": "fuck you kai your mom is gay",
+  "main": "index.js",
+  "scripts": {
+    "test": " "
+  },
+  "repository": {
+    "type": "git",
+    "url": " "
+  },
+  "keywords": [],
+  "author": "PossiblySprite",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
